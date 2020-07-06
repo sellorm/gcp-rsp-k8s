@@ -11,7 +11,7 @@ cat("Generating asset: Architecture diagram\n")
 library(nomnoml)
 
 arch_diag <- "
-[<frame>GCP Compute Engine VM|RStudio Server Pro (IDE FE);NFS Share (User & shared data);User auth]
+[<frame>GCP Compute Engine VM|RStudio Server Pro (IDE FE);RStudio Launcher;NFS Share (User & shared data);User auth]
 [<frame>Kubernetes|
   [R sessions]
   [Python Sessions]
