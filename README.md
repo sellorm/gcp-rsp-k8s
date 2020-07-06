@@ -317,3 +317,6 @@ passwd <USERNAME>
 ## Congratulations!
 
 You can now log into your RSP instance using `http://<IP_ADDRESS>:8787`.
+
+If you want, you can see the pods running in the workload section of the Kubernetes Engine page.
+
