@@ -1,6 +1,6 @@
 # Generate assets to be used elsewhere
 
-cat("Generating assets...\n")
+cat("Generating assets...\n\n")
 
 # ------------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ nomnoml(arch_diag, png = "gcp_rsp_k8s.png")
 
 # ------------------------------------------------------------------------------
 
-cat("Finished\n")
+cat("\nFinished\n")
