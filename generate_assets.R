@@ -1,4 +1,4 @@
-
+# Generate assets to be used elsewhere
 
 cat("Generating assets...\n")
 
