@@ -64,7 +64,7 @@ kubectl config view
 
 This will display a bunch of info about your configuration, the IP address is probably in here somewhere
 
-## Add that to the luancher.kubernetes.conf file
+## Add that to the launcher.kubernetes.conf file
 
 eg
 
