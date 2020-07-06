@@ -3,6 +3,9 @@
 
 The goal of this repo is to provide a minimally functional guide to implementing a Kubernetes backed RStudio Server Pro instance on GCP.
 
+**Note:** The keys/tokens in this repo are shown as examples only. None of them actually work. I'm not that stupid ;)
+
+
 ## Target Architecture
 
 ![](gcp_rsp_k8s.png)
